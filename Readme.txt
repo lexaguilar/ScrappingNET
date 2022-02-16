@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=SQL5097.site4now.net;Database=db_a13b77_scrapping;User Id=db_a13b77_scrapping_admin;Password=Scrapping*123;" Microsoft.EntityFrameworkCore.SqlServer -o Models -c SmScrap -f
